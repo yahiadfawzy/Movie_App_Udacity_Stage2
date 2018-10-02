@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieAppUdacityStage2</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="refrech"><u>REFRECH</u></string>
+    <string name="check_connection">check intenet connection</string>
+    <string name="action_sort">sort ceriteria</string>
+    <string name="sort_rating">top rated</string>
+    <string name="sort_popularity">popular</string>
+    <string name="sort_favourit">favourite</string>
+    <string name="main_info">main info</string>
+    <string name="traillers">traillers</string>
+</resources>
